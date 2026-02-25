@@ -3,7 +3,7 @@
 
 ## Kjør CanSat primær-oppdrag
 
-* åpne https://makecode.microbit.org/#tutorial:github:oysa88/cansat_primaeroppdrag/cansat_primaer.md/
+* åpne https://makecode.microbit.org/#tutorial:github:oysa88/cansat_primaeroppdrag/cansat_primaer/
 
 ## Bruk som utvidelse
 
