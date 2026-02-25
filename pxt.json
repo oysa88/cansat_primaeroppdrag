@@ -10,7 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "cansat_primaer.ts"
+        "cansat_primaer.md"
     ],
     "testFiles": [
         "test.ts"
