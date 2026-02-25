@@ -4,7 +4,11 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Datalogging": "github:oysa88/datalogger#30e787ae1b61e59b53857cb04a78b8f334624925",
+        "BME280": "github:oysa88/bme280#5395e7a1e965ff21bfb71766ab2373d9dd59c08d",
+        "barometric-height": "github:oysa88/barometric-height#c57cd9d3aaf28d8917f62dde04fe08187f3e5e81",
+        "OLED-skjerm": "github:oysa88/oled-skjerm#a8bd4ea4745359e388b3b2b790737e2020bad236"
     },
     "files": [
         "main.blocks",
