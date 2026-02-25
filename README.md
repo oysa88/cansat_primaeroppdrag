@@ -1,6 +1,10 @@
 
 > Åpne denne siden på [https://oysa88.github.io/cansat_primaeroppdrag/](https://oysa88.github.io/cansat_primaeroppdrag/)
 
+## Kjør CanSat primær-oppdrag
+
+* åpne https://makecode.microbit.org/#tutorial:github:oysa88/cansat_primaeroppdrag/cansat_primaer/
+
 ## Bruk som utvidelse
 
 Dette kodeområdet kan bli lagt til som en **utvidelse** i MakeCode.
